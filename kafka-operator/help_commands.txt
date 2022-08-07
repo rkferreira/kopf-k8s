@@ -1,0 +1,4 @@
+
+ kubectl api-resources --api-group kafka.mycompany.io -o wide
+
+ kubectl get topics --all-namespaces 
